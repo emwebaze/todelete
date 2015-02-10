@@ -1,0 +1,5 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+Git makes it a repo but doesnot track any files in it immediately. 
+
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+It holds off the commits before they are substantively committed to the repo.

@@ -1,0 +1,29 @@
+1. How did editting with diff feel like
+Nifty little tool there - diff. Had never used it before. Good to know
+that on such a basic level you can do this sort of thing.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Programmer can back track to previous versions of the code if he needs 
+to restore a version that worked in a certain way. It is also good for 
+sorting out errors because he/she can just revert to the verison before
+changes were made
+
+3.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+You have fine grained control over what you want the commits you make
+to mean. Also the commits may take arbitrary time so you don't want to
+make them automatic.
+
+4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because it makes sense to track some files together.
+
+5.How can you use the commands git log and git diff to view the history of files?
+git log gives you a history of all the commits made to the repo
+git diff gives a differential between different specified commits.
+
+6.How might using version control make you more confident to make changes that could break something?
+The fact that you can revert makes making innovative changes more
+likely.
+
+7.Now that you have your workspace set up, what do you want to try using Git for?
+For coding. Did not realise how easy it would make my work. Wish I had 
+known this before.
